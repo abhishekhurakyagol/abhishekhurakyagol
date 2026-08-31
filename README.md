@@ -1,70 +1,147 @@
-<h1 align="center">Hi 👋, I'm Abhishek Hurakyagol</h1>
-<h3 align="center">AI & Data Science Student | Aspiring Data Engineer / ML Engineer</h3>
+# Hi, I'm Abhishek Hurakya Gol 👋
+
+### Artificial Intelligence & Data Science Graduate | Data Science | AI/ML | Full-Stack Development
+
+I'm a passionate **Artificial Intelligence and Data Science graduate** interested in building practical, intelligent, and user-focused technology solutions.
+
+I enjoy working with data, developing machine learning solutions, creating web applications, and exploring how AI can solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. Graduate in **Artificial Intelligence & Data Science**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
+- 💻 Interested in **Full-Stack Web Development**
+- 📊 Passionate about **Data Analysis & Data Visualization**
+- 🌱 Continuously learning and improving my technical skills
+- 💡 Interested in building practical projects and innovative ideas
+- 🎯 Currently looking for opportunities to start my professional career
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### 🤖 AI & Data Science
+- Machine Learning
+- Data Analysis
+- Data Visualization
+- Artificial Intelligence
+- Pandas
+- NumPy
+- Scikit-learn
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Full-Stack Development
+
+### 🗄️ Database
+- MySQL
+- MongoDB
+
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Vercel
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI & Machine Learning Projects
+
+> Building practical AI/ML projects focused on solving real-world problems.
+
+- 🔹 Machine Learning Projects
+- 🔹 Data Analysis & Visualization Projects
+- 🔹 AI-based Applications
+
+### 🌐 Full-Stack Projects
+
+> Developing modern web applications with clean UI, useful functionality, and responsive design.
+
+- 🔹 Full-Stack Web Applications
+- 🔹 Personal Portfolio
+- 🔹 Database-driven Applications
+
+### 💡 Innovation & Startup Ideas
+
+I'm also interested in transforming ideas into practical products and exploring opportunities around **technology, AI, and startups**.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishekhurakyagol"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abhishekhurakyagol@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekhurakyagol&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhurakyagol&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🔥 GitHub Streak
 
-- 🎓 B.E. in **Artificial Intelligence and Data Science**, S.G. Balekundri Institute of Technology (SGBIT Belagavi), VTU Karnataka — *2023–2027* (CGPA: 8.25)
-- 🔭 Currently building **DeepGuard-AI**, a framework to detect AI-generated images, videos, and synthetic voices
-- 🌱 Sharpening my skills in **Python, SQL, Machine Learning, and Data Analytics**
-- 💡 Interested in **Data Engineering, AI/ML Engineering, and Data Science** roles
-- 📫 Reach me at **abhishekhurakyagol@gmail.com**
-- 🗣️ Languages: English, Hindi, Kannada
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishekhurakyagol&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="left">
 
-**Data Science & ML**
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+<a href="https://abhishekhurakyagol-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8E86FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-**Visualization**
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<a href="https://www.linkedin.com/in/abhishekhurakyagol">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Backend & Databases**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<a href="https://github.com/abhishekhurakyagol">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<a href="mailto:abhishekhurakyagol@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-### 📌 Featured Projects
+## 📫 Contact
 
-- **[DeepGuard-AI](https://github.com/abhishekhurakyagol)** — AI framework to detect synthetic images, videos, and voices using ML-based image classification and MFCC/FFT audio feature extraction, with a React + FastAPI full-stack architecture.
-- **[Public Transportation Information System – Belagavi City](https://github.com/abhishekhurakyagol)** — Web platform for bus route search, live ETA, fare info, and GPS-based map tracking, with an admin dashboard for route/bus management. Built with React.js, FastAPI, MongoDB, and REST APIs.
-- **[BlinkIT Grocery Dashboard](https://github.com/abhishekhurakyagol)** — Interactive Tableau dashboard analyzing grocery sales, outlet performance, and pricing trends, with Excel-based data preprocessing.
+**Email:** abhishekhurakyagol@gmail.com  
+**Phone:** +91 7795420099
 
 ---
 
-### 🏆 Certifications
+## 💭 My Goal
 
-- Python: Beginner to Advanced For Data Professionals — Codebasics
-- SQL for Data Science — Codebasics
-- AI Foundations — OpenAI Academy
+> **"Learn continuously. Build meaningful solutions. Create an impact."**
+
+I'm looking forward to opportunities where I can apply my knowledge, learn from experienced professionals, contribute to meaningful projects, and grow as a technology professional.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekhurakyagol&show_icons=true&theme=radical" alt="Abhi's GitHub Stats" />
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
 </p>
