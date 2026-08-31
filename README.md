@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek Hurakya Gol 👋
+# Hi, I'm Abhishek Hurakyagol 👋
 ### Artificial Intelligence & Data Science Graduate | Data Science | AI/ML | Full-Stack Development
 
 I'm a passionate **Artificial Intelligence and Data Science graduate** interested in building practical, intelligent, and user-focused technology solutions.
@@ -94,6 +94,7 @@ I'm also interested in transforming ideas into practical products and exploring 
 ## 📫 Contact
 **Email:** abhishekhurakyagol@gmail.com  
 **Linkedin** https://www.linkedin.com/in/abhishekhurakyagol
+**portfolio** https://abhishekhurakyagol-portfolio.vercel.app/#top
 
 ---
 
