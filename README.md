@@ -93,8 +93,10 @@ I'm also interested in transforming ideas into practical products and exploring 
 
 ## 📫 Contact
 **Email:** abhishekhurakyagol@gmail.com  
-**Linkedin** https://www.linkedin.com/in/abhishekhurakyagol \n 
+**Linkedin** https://www.linkedin.com/in/abhishekhurakyagol 
 **portfolio** https://abhishekhurakyagol-portfolio.vercel.app/#top
+
+
 
 ---
 
